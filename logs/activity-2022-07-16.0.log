@@ -1,0 +1,72 @@
+2022-07-16_00-26-27 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.3.Final
+2022-07-16_00-26-27 [main] INFO  c.c.q.QuotesmicroserviceApplication - Starting QuotesmicroserviceApplication using Java 17.0.2 on ADITYA with PID 14604 (D:\Work\CTS Learning\MFPE Projects\PAS-FINAL\quotesmicroservice\target\classes started by Aditya in D:\Work\CTS Learning\MFPE Projects\PAS-FINAL\quotesmicroservice)
+2022-07-16_00-26-27 [main] INFO  c.c.q.QuotesmicroserviceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-16_00-26-27 [main] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=c85c6a7c-4ba9-3b72-99e9-f0bb6fb43a1e
+2022-07-16_00-26-27 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9004 (http)
+2022-07-16_00-26-27 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9004"]
+2022-07-16_00-26-27 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-07-16_00-26-27 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-16_00-26-27 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-07-16_00-26-27 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2530 ms
+2022-07-16_00-26-27 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9004"]
+2022-07-16_00-26-27 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9004 (http) with context path ''
+2022-07-16_00-26-27 [main] INFO  c.c.q.QuotesmicroserviceApplication - Started QuotesmicroserviceApplication in 6.087 seconds (JVM running for 7.938)
+2022-07-16_00-26-27 [RMI TCP Connection(9)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-07-16_00-27-57 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.3.Final
+2022-07-16_00-27-57 [main] INFO  c.c.q.QuotesmicroserviceApplication - Starting QuotesmicroserviceApplication using Java 17.0.2 on ADITYA with PID 17972 (D:\Work\CTS Learning\MFPE Projects\PAS-FINAL\quotesmicroservice\target\classes started by Aditya in D:\Work\CTS Learning\MFPE Projects\PAS-FINAL\quotesmicroservice)
+2022-07-16_00-27-57 [main] INFO  c.c.q.QuotesmicroserviceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-16_00-27-57 [main] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=c85c6a7c-4ba9-3b72-99e9-f0bb6fb43a1e
+2022-07-16_00-27-57 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9004 (http)
+2022-07-16_00-27-57 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9004"]
+2022-07-16_00-27-57 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-07-16_00-27-57 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-16_00-27-57 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-07-16_00-27-57 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 932 ms
+2022-07-16_00-27-57 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9004"]
+2022-07-16_00-27-57 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9004 (http) with context path ''
+2022-07-16_00-27-57 [main] INFO  c.c.q.QuotesmicroserviceApplication - Started QuotesmicroserviceApplication in 2.537 seconds (JVM running for 3.443)
+2022-07-16_00-35-27 [RMI TCP Connection(27)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-07-16_00-46-27 [main] INFO  c.c.q.QuotesmicroserviceApplication - Starting QuotesmicroserviceApplication using Java 17.0.2 on ADITYA with PID 3724 (D:\Work\CTS Learning\MFPE Projects\PAS-FINAL\quotesmicroservice\target\classes started by Aditya in D:\Work\CTS Learning\MFPE Projects\PAS-FINAL\quotesmicroservice)
+2022-07-16_00-46-27 [main] INFO  c.c.q.QuotesmicroserviceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-16_00-46-27 [main] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=c85c6a7c-4ba9-3b72-99e9-f0bb6fb43a1e
+2022-07-16_00-46-27 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9004 (http)
+2022-07-16_00-46-27 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9004"]
+2022-07-16_00-46-27 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-07-16_00-46-27 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-16_00-46-27 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-07-16_00-46-27 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2066 ms
+2022-07-16_00-46-27 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9004"]
+2022-07-16_00-46-27 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9004 (http) with context path ''
+2022-07-16_00-46-27 [main] INFO  c.c.q.QuotesmicroserviceApplication - Started QuotesmicroserviceApplication in 5.668 seconds (JVM running for 7.476)
+2022-07-16_00-58-37 [RMI TCP Connection(51)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-07-16_00-58-37 [RMI TCP Connection(59)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-07-16_00-58-37 [RMI TCP Connection(60)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-07-16_00-58-37 [RMI TCP Connection(52)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-07-16_00-58-37 [RMI TCP Connection(58)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-07-16_00-58-37 [RMI TCP Connection(56)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-07-16_00-58-37 [RMI TCP Connection(61)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-07-16_01-28-28 [main] INFO  c.c.q.QuotesmicroserviceApplication - Starting QuotesmicroserviceApplication using Java 17.0.2 on ADITYA with PID 20168 (D:\Work\CTS Learning\MFPE Projects\PAS-FINAL\quotesmicroservice\target\classes started by Aditya in D:\Work\CTS Learning\MFPE Projects\PAS-FINAL\quotesmicroservice)
+2022-07-16_01-28-28 [main] INFO  c.c.q.QuotesmicroserviceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-16_01-28-28 [main] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=c85c6a7c-4ba9-3b72-99e9-f0bb6fb43a1e
+2022-07-16_01-28-28 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9004 (http)
+2022-07-16_01-28-28 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9004"]
+2022-07-16_01-28-28 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-07-16_01-28-28 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-16_01-28-28 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-07-16_01-28-28 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2981 ms
+2022-07-16_01-28-28 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9004"]
+2022-07-16_01-28-28 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9004 (http) with context path ''
+2022-07-16_01-28-28 [main] INFO  c.c.q.QuotesmicroserviceApplication - Started QuotesmicroserviceApplication in 6.824 seconds (JVM running for 9.401)
+2022-07-16_01-28-28 [RMI TCP Connection(64)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-07-16_23-15-29 [main] INFO  c.c.q.QuotesmicroserviceApplication - Starting QuotesmicroserviceApplication using Java 17.0.2 on ADITYA with PID 4732 (D:\Work\CTS Learning\MFPE Projects\PAS-FINAL\quotesmicroservice\target\classes started by Aditya in D:\Work\CTS Learning\MFPE Projects\PAS-FINAL\quotesmicroservice)
+2022-07-16_23-15-29 [main] INFO  c.c.q.QuotesmicroserviceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-16_23-15-29 [main] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=c85c6a7c-4ba9-3b72-99e9-f0bb6fb43a1e
+2022-07-16_23-15-29 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9004 (http)
+2022-07-16_23-15-29 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9004"]
+2022-07-16_23-15-29 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-07-16_23-15-29 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-16_23-15-29 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-07-16_23-15-29 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2916 ms
+2022-07-16_23-15-29 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9004"]
+2022-07-16_23-15-29 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9004 (http) with context path ''
+2022-07-16_23-15-29 [main] INFO  c.c.q.QuotesmicroserviceApplication - Started QuotesmicroserviceApplication in 6.379 seconds (JVM running for 8.008)
